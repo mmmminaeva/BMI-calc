@@ -1,0 +1,11 @@
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\bin\Debug\Calc-BMI.exe.config
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\bin\Debug\Calc-BMI.exe
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\bin\Debug\Calc-BMI.pdb
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\obj\Debug\Calc-BMI.csproj.AssemblyReference.cache
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\obj\Debug\Calc-BMI.csproj.SuggestedBindingRedirects.cache
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\obj\Debug\Calc_BMI.Form1.resources
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\obj\Debug\Calc_BMI.Properties.Resources.resources
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\obj\Debug\Calc-BMI.csproj.GenerateResource.cache
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\obj\Debug\Calc-BMI.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\obj\Debug\Calc-BMI.exe
+D:\Project Visual Studio\Calc-BMI\Calc-BMI\obj\Debug\Calc-BMI.pdb
